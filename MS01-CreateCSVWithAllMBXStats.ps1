@@ -109,6 +109,8 @@ foreach($mbx in $mailboxes)
             ItemCount     = 0
         }    
     }
+    
+    # comment
 
     # bigint is needed to sort variables as numbers, not strings
     else
